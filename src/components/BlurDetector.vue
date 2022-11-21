@@ -7,7 +7,7 @@
 </template>
 
 <script>
-import init, { variance_of_laplacian } from "../../blur/pkg/blur";
+import init, { variance_of_laplacian } from "../../rust_blur_lib/blur";
 
 export default {
   name: 'BlurDetector',

@@ -1,0 +1,15 @@
+{
+  "name": "blur",
+  "collaborators": [
+    "Louis MOUHAT <louis.mouhat@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "blur_bg.wasm",
+    "blur.js",
+    "blur.d.ts"
+  ],
+  "module": "blur.js",
+  "types": "blur.d.ts",
+  "sideEffects": false
+}
